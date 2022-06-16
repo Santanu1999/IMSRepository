@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjr/GL4huvBHyYzViJB62K4hyndfqBftNcKDl+QjKTRf8O1qMaMBIErbHu66UXeAfwnyTRY7vJmDLIuMNzTKUQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\IMSRepository\\EMS\\AppService\\AppService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Santa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Santa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Santa\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
